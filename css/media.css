@@ -38,7 +38,7 @@
 
 
 
-.banner2 .banner2-text{ width:90%; margin:0 0px 0 0; float:none; text-align:center; border-top:solid 1px #b9b9b9; padding:30px 5%; }
+.banner2 .banner2-text{ width:90%; margin:0 0px 0 0; float:none; text-align:center; border:none; padding:30px 5%; }
 
 .banner2 .rearn-more2{ float:none; margin:0 auto; margin-top:25px;}
 
@@ -58,7 +58,7 @@
 
 
 
-.banner3{ width:100%;}
+.banner3{ width:100%; border:none}
 
 .banner3 .left-bloak{ width:60%; height:262px;  background:url(../images/banner3bg.png) no-repeat right bottom; background-size:60%;}
 
@@ -67,17 +67,19 @@
 .banner3 .right-bloak{ width:39.8%; background-size:cover;}
 
 
-.banner4{ width:100%;}
+.banner4{ width:100%; border:none}
 
-.banner4 .block1{ float:none; margin:0 auto;}
-
+.banner4 .block1{background:url(../images/banner4bg1big.png) no-repeat center top; float:none; display: block;background-size: 100% 100%; margin:0 auto;width:100%;border:none}
+.banner4 .block2{background:url(../images/banner4bg2big.png) no-repeat center top; float:none; display: block;background-size: 100% 100%; margin:0 auto;width:100%;border:none}
+.banner4 .block3{background:url(../images/banner4bg3big.png) no-repeat center top; float:none; display: block;background-size: 100% 100%; margin:0 auto;width:100%;border:none}
+    .banner4 .block3 h3{padding:125px 0 0 0}
 .banner4 .block2{ float:none; margin:20px auto;}
 
 .banner4 .block3{ float:none; margin:0 auto;}
 
 
 
-.new-banner1{ width:70%;  background: url("../images/comment.png") no-repeat 20px 10px  #f4f4f4; background-size:12%; padding: 10px 2% 10px 20%; border:solid 1px #A7A7A7; margin: 28px auto; min-height: 110px; font-family: "open_sansregular"; font-size: 13px; color: #636363; line-height: 24px;}
+.new-banner1{ width:70%; border:none!important;  background: url("../images/comment.png") no-repeat 20px 10px  #f4f4f4; background-size:12%; padding: 10px 2% 10px 20%; border:solid 1px #A7A7A7; margin: 28px auto; min-height: 110px; font-family: "open_sansregular"; font-size: 13px; color: #636363; line-height: 24px;}
 
 
 .new-banner2{ width:92%;  background:  #fbfbfb url("../images/newbanner3.png") no-repeat right top; background-size:900px;    margin: 28px auto; height: auto; font-family: "open_sansregular"; font-size: 13px; color: #636363; line-height: 20px; overflow: hidden;}
@@ -136,6 +138,34 @@
 
 .page-allproducts .views-field-field-banner-4{ width:100%; margin:0 auto!important;}
 .page-allproducts  .views-field-field-banner-4 img{ width:100%; height:auto;}
+
+    .distributor-main .distributor-left {width:100%;border:none;}
+    .distributor-main .distributor-right {width:100%;border:none;}
+    .distributor-main .distributor-left ul {width:50%;margin:0 auto}
+    .form-block-contain .form-main .form-type-textfield {
+
+        height:45px;
+        margin:15px 0;
+
+    }
+    .form-block-contain .form-main .form-type-textfield{
+        height:45px;
+
+    }
+    .form-block-contain .form-main #edit-field-last-name-und-0-value{
+
+        height:45px;
+
+    }
+    .form-block-contain .form-main #edit-field-email-und-0-value{
+        height:45px;
+
+    }
+    .form-block-contain .form-main #edit-field-phone-no-und-0-value{
+
+        height:45px;
+    }
+
 
 
 
@@ -261,7 +291,12 @@
 
 }
 
+@media screen and (max-width:720px){
 
+    .banner4 .block1{background:url(../images/banner4bg1big.png) no-repeat center top; float:none; display: block;background-size: 100% 100%; margin:0 auto;width:100%;}
+
+
+}
 
 @media screen and (max-width:700px) {
 
@@ -311,7 +346,7 @@
 
  .menu-contain ul li .image_menu{ left:0%; width:510px;  }
  
- .banner2{ background: #ffffff url(../images/banner2bg.png) no-repeat left top; background-size:1500px; width:100%; height:auto; padding-top:287px; border:solid 1px #b9b9b9; margin:28px auto;}
+ .banner2{ background: #ffffff url(../images/banner2bg.png) no-repeat left top; background-size:1500px; width:100%; height:auto; padding-top:287px; border:none; margin:28px auto;}
  
  
  .page-user-login #user-login{ width:80%; margin:0 auto;}
