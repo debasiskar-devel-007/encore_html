@@ -115,7 +115,7 @@ a {
 
 .password-suggestions ul li{ list-style:none;}
 
-.footer-contain{ width:100%; border-bottom:solid 2px #d4d4d4; border-top:solid 2px #d4d4d4; height:46px; padding:6px 0; margin:28px 0; }
+.footer-contain{ width:100%; border-bottom:solid 2px #d4d4d4; border-top:solid 2px #d4d4d4; height:46px; padding:6px 0; margin:18px 0; }
 
 .footer-contain .footer-left{ width:275px; float:left; border-right:solid 2px #a2a2a2; font-size:13px; color:#515151;  font-family: 'open_sansregular';}
 
@@ -139,7 +139,7 @@ a {
 .banner1 .banner1-text img{ display:block; margin:10px auto;}
 
 
-.banner1 .bottom-left-text{ width:100%;  font-size:14px; color:#083457; font-family: 'open_sansregular'; line-height:18px; font-style:italic; margin:0 0 0 50px;}
+.banner1 .bottom-left-text{ width:100%;  font-size:10px; color:#083457; font-family: 'open_sansregular'; line-height:18px; font-style:italic; margin:0 0 0 50px;}
 
 .banner1 .rearn-more{ background:url(../images/border.png) no-repeat left bottom; padding-bottom:6px; display:inline-block; float:right; font-family: 'open_sansregular';}
 
@@ -147,7 +147,7 @@ a {
 
 
 
-.banner2{ background:url(../images/banner2bg.png) no-repeat; background-size:cover; width:998px; height:191px; border:solid 1px #b9b9b9; margin:20px auto;}
+.banner2{ background:url(../images/banner2bg.png) no-repeat; background-size:cover; width:998px; height:191px; border:solid 1px #b9b9b9; margin:18px auto;}
 
 .banner2 .banner2-text{ width:565px; margin:35px 40px 0 0; float:right; }
 
@@ -161,7 +161,7 @@ a {
 
 .banner2 .rearn-more2 a{ color:#638524; font-style:italic;}
 
-.banner3{ width:998px; margin:0 auto; margin-bottom:28px; font-family: 'open_sansregular';  border:solid 1px #b9b9b9; }
+.banner3{ width:998px; margin:0 auto; margin-bottom:18px; font-family: 'open_sansregular';  border:solid 1px #b9b9b9; }
 
 .banner3 .left-bloak{ width:718px; height:262px;  float:left;  background:url(../images/banner3bg.png) no-repeat left top; background-size:cover;}
 
@@ -2086,7 +2086,7 @@ margin:10px 0 0 0!important;
 }
 
 .distributor-main{width: 1000px;
-    margin: 20px auto;}
+    margin: 18px auto;}
 
 
 
@@ -2237,12 +2237,12 @@ margin:10px 0 0 0!important;
 .distributor-main .distributor-right .blog-contain .blog-pic{ width: 90px; float: left; margin:0 8px 5px 0; border: solid 2px #fff; box-shadow: 0 0 5px #888; }
 
 
-.new-banner1{ width:808px;  background: url("../images/comment.png") no-repeat 20px 10px  #f4f4f4; padding: 10px 10px 10px 180px; border:solid 1px #A7A7A7; margin: 28px auto; min-height: 110px; font-family: "open_sansregular"; font-size: 13px; color: #636363; line-height: 24px;}
+.new-banner1{ width:808px;  background: url("../images/comment.png") no-repeat 18px 10px  #f4f4f4; padding: 10px 10px 10px 180px; border:solid 1px #A7A7A7; margin: 20px auto; min-height: 110px; font-family: "open_sansregular"; font-size: 13px; color: #636363; line-height: 24px;}
 
 .new-banner1 span{ display: block; margin: 5px 0; color: #2393c3;}
 
 
-.new-banner2{ width:1000px;  background: url("../images/newbanner2.png") no-repeat;   margin: 28px auto; height:353px; font-family: "open_sansregular"; font-size: 13px; color: #636363; line-height: 20px; overflow: hidden;}
+.new-banner2{ width:1000px;  background: url("../images/newbanner2.png") no-repeat;   margin: 18px auto; height:353px; font-family: "open_sansregular"; font-size: 13px; color: #636363; line-height: 20px; overflow: hidden;}
 
 .new-banner2 .banner-text { width: 660px; margin: 26px 0 0 26px; overflow: hidden;}
 
@@ -2250,7 +2250,7 @@ margin:10px 0 0 0!important;
 
 .new-banner2 .banner-text h3{ font-size: 15px; color: #393939; padding-bottom: 18px;}
 
-.socialfeeds{ width: 1000px; margin:28px auto; font-family: "open_sansregular";}
+.socialfeeds{ width: 1000px; margin:18px auto; font-family: "open_sansregular";}
 
 .socialfeeds h2{ font-size: 20px; color: #393939; text-align: center; font-style: italic; border-bottom: solid 2px #638524; padding: 0 0 20px 0;}
 .socialfeeds .s-icon{ width: 131px; margin:0 auto; margin-top: 18px;}
