@@ -26,16 +26,27 @@
       <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1035" column="0" selection-start="36702" selection-end="36702" vertical-scroll-proportion="-14.8" vertical-offset="17225" max-vertical-offset="38675">
+            <state line="2272" column="5" selection-start="79833" selection-end="79837" vertical-scroll-proportion="0.0" vertical-offset="38031" max-vertical-offset="38828">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="media.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/media.css">
+      <file leaf-file-name="product_allure3_cosmetics.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/product_allure3_cosmetics.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="99" column="0" selection-start="4528" selection-end="4528" vertical-scroll-proportion="-4.74" vertical-offset="1446" max-vertical-offset="12121">
+            <state line="353" column="0" selection-start="23390" selection-end="23390" vertical-scroll-proportion="-47.764706" vertical-offset="3565" max-vertical-offset="7242">
+              <folding>
+                <element signature="n#style#0;n#div#5;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="product_allure3_fragnance.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/product_allure3_fragnance.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="26" column="0" selection-start="955" selection-end="955" vertical-scroll-proportion="-7.1923075" vertical-offset="255" max-vertical-offset="7242">
               <folding />
             </state>
           </provider>
@@ -44,35 +55,50 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="0" selection-start="498" selection-end="498" vertical-scroll-proportion="-2.0131578" vertical-offset="0" max-vertical-offset="11900">
-              <folding />
+            <state line="681" column="33" selection-start="30076" selection-end="30076" vertical-scroll-proportion="-6.627451" vertical-offset="10610" max-vertical-offset="11288">
+              <folding>
+                <element signature="tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#article#1;tag#div#0;tag#div#0;tag#div#0;tag#div#2;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="tag#div#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#article#2;tag#div#0;tag#div#0;tag#div#0;tag#div#2;tag#body#0;tag#html#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="product_allure3.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/product_allure3.html">
+      <file leaf-file-name="contactus.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/contactus.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="361" column="131" selection-start="18939" selection-end="18939" vertical-scroll-proportion="0.7094395" vertical-offset="5656" max-vertical-offset="7276">
-              <folding />
+            <state line="345" column="28" selection-start="13920" selection-end="13920" vertical-scroll-proportion="0.7098151" vertical-offset="5366" max-vertical-offset="6069">
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#div#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#div#1;n#form#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#textarea#0;n#div#2;n#form#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="product_allure3_bath&amp;body.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/product_allure3_bath&amp;body.html">
+      <file leaf-file-name="newsletter.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/newsletter.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="235" column="79" selection-start="8602" selection-end="8602" vertical-scroll-proportion="-4.4313726" vertical-offset="3769" max-vertical-offset="7276">
-              <folding />
+            <state line="296" column="1" selection-start="12009" selection-end="12426" vertical-scroll-proportion="-17.884615" vertical-offset="4567" max-vertical-offset="5270">
+              <folding>
+                <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="tag#div#1;tag#div#0;tag#div#4;tag#body#0;tag#html#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="menuheader.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/menuheader.html">
+      <file leaf-file-name="ecatelog.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ecatelog.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="58" selection-start="0" selection-end="2938" vertical-scroll-proportion="-17.23077" vertical-offset="351" max-vertical-offset="1054">
-              <folding />
+            <state line="304" column="12" selection-start="12461" selection-end="12461" vertical-scroll-proportion="-19.846153" vertical-offset="4516" max-vertical-offset="5270">
+              <folding>
+                <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="tag#div#1;tag#div#0;tag#div#4;tag#body#0;tag#html#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -91,10 +117,18 @@
         <option value="//KTA39-PC/htdocs/encore_html/menuheader.html" />
         <option value="$PROJECT_DIR$/menuheader.html" />
         <option value="$PROJECT_DIR$/product.html" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/css/style.css" />
-        <option value="$PROJECT_DIR$/product_allure3_bath&amp;body.html" />
         <option value="$PROJECT_DIR$/product_allure3.html" />
+        <option value="$PROJECT_DIR$/productviewdetail.html" />
+        <option value="$PROJECT_DIR$/productviewdetail_1.html" />
+        <option value="$PROJECT_DIR$/product_allure3_bath&amp;body.html" />
+        <option value="$PROJECT_DIR$/productviewdetail_2.html" />
+        <option value="$PROJECT_DIR$/product_allure3_cosmetics.html" />
+        <option value="$PROJECT_DIR$/product_allure3_fragnance.html" />
+        <option value="$PROJECT_DIR$/newsletter.html" />
+        <option value="$PROJECT_DIR$/ecatelog.html" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/contactus.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -174,8 +208,22 @@
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="SearchEverywhereHistory" value="" />
   </component>
   <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -188,24 +236,24 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -267,7 +315,10 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="672" column="72" selection-start="30301" selection-end="30301" vertical-scroll-proportion="0.0" vertical-offset="11052" max-vertical-offset="11730">
-          <folding />
+          <folding>
+            <element signature="tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#article#1;tag#div#0;tag#div#0;tag#div#0;tag#div#2;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#article#2;tag#div#0;tag#div#0;tag#div#0;tag#div#2;tag#body#0;tag#html#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -285,31 +336,106 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/product_allure3.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="498" selection-end="498" vertical-scroll-proportion="-2.0131578" vertical-offset="0" max-vertical-offset="11900">
+        <state line="127" column="0" selection-start="2914" selection-end="5854" vertical-scroll-proportion="-2.8026316" vertical-offset="1946" max-vertical-offset="6290">
+          <folding>
+            <element signature="tag#div#1;tag#body#0;tag#html#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/productviewdetail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="146" column="6" selection-start="5996" selection-end="5996" vertical-scroll-proportion="-12.627451" vertical-offset="1838" max-vertical-offset="20332">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
+    <entry file="file://$PROJECT_DIR$/productviewdetail_1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1035" column="0" selection-start="36702" selection-end="36702" vertical-scroll-proportion="-14.8" vertical-offset="17225" max-vertical-offset="38675">
+        <state line="1165" column="110" selection-start="88672" selection-end="88672" vertical-scroll-proportion="0.54867256" vertical-offset="19433" max-vertical-offset="20366">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/product_allure3_bath&amp;body.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="235" column="79" selection-start="8602" selection-end="8602" vertical-scroll-proportion="-4.4313726" vertical-offset="3769" max-vertical-offset="7276">
+        <state line="94" column="27" selection-start="2306" selection-end="2306" vertical-scroll-proportion="-8.333333" vertical-offset="1173" max-vertical-offset="7242">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/product_allure3.html">
+    <entry file="file://$PROJECT_DIR$/productviewdetail_2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="361" column="131" selection-start="18939" selection-end="18939" vertical-scroll-proportion="0.7094395" vertical-offset="5656" max-vertical-offset="7276">
+        <state line="1165" column="88" selection-start="88649" selection-end="88649" vertical-scroll-proportion="-8.294118" vertical-offset="19382" max-vertical-offset="20366">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newsletter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="296" column="1" selection-start="12009" selection-end="12426" vertical-scroll-proportion="-17.884615" vertical-offset="4567" max-vertical-offset="5270">
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="tag#div#1;tag#div#0;tag#div#4;tag#body#0;tag#html#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ecatelog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="304" column="12" selection-start="12461" selection-end="12461" vertical-scroll-proportion="-19.846153" vertical-offset="4516" max-vertical-offset="5270">
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="tag#div#1;tag#div#0;tag#div#4;tag#body#0;tag#html#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2272" column="5" selection-start="79833" selection-end="79837" vertical-scroll-proportion="0.0" vertical-offset="38031" max-vertical-offset="38828">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/product_allure3_fragnance.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="0" selection-start="955" selection-end="955" vertical-scroll-proportion="-7.1923075" vertical-offset="255" max-vertical-offset="7242">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/product_allure3_cosmetics.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="353" column="0" selection-start="23390" selection-end="23390" vertical-scroll-proportion="-47.764706" vertical-offset="3565" max-vertical-offset="7242">
+          <folding>
+            <element signature="n#style#0;n#div#5;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="681" column="33" selection-start="30076" selection-end="30076" vertical-scroll-proportion="-6.627451" vertical-offset="10610" max-vertical-offset="11288">
+          <folding>
+            <element signature="tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#article#1;tag#div#0;tag#div#0;tag#div#0;tag#div#2;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#article#2;tag#div#0;tag#div#0;tag#div#0;tag#div#2;tag#body#0;tag#html#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contactus.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="345" column="28" selection-start="13920" selection-end="13920" vertical-scroll-proportion="0.7098151" vertical-offset="5366" max-vertical-offset="6069">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#1;n#form#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#textarea#0;n#div#2;n#form#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

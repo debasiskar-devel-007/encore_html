@@ -2268,3 +2268,11 @@ margin:10px 0 0 0!important;
     .tab a.active { color:#fff }
     .tab-container .panel-container { background: #fff;  }
     .panel-container { }
+
+
+.btn1{
+
+background:url("../images/btnbg.png")repeat-x left center; width:140px; height:40px; border:solid 1px #cdd2d6; border-radius:6px; margin:5px auto; margin-bottom:20px; text-align:center; clear:both; display:block; overflow:hidden; color:#fff; line-height:40px;}
+
+
+
