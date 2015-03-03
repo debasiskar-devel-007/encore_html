@@ -2044,6 +2044,7 @@ margin:10px 0 0 0!important;
 
 
 .menu-contain ul li a{ color: #fff;}
+.menu-contain ul li:first-child a{ margin: 0 58px 0 0px;}
 .menu-contain a{ line-height: 67px; margin: 0 58px;}
 
 .menu-contain ul li a:hover{ color: #7FB41C;}
