@@ -109,7 +109,7 @@ a {
 .menu-contain{ width:100%; background:#083457; text-align:center;   font-family: 'open_sansregular'; }
 
 
-
+.menu-contain2{ width:100%; background:#083457; text-align:center;   font-family: 'open_sansregular'; }
 
 .password-suggestions{ width:98%; padding:1%;}
 
@@ -1025,16 +1025,18 @@ a {
 
 /*-----------*/
 
-.product-menu{ background:url("../images/devider.png")repeat-x center left; width:1000px; height:30px; margin:0px auto; margin-bottom:24px;  font-family: "open_sansregular" !important;}
+.product-menu{ background:url("../images/devider.png")repeat-x center left; width:1000px; height:30px; margin:0px auto; margin-bottom:24px;  font-family: "open_sansregular" !important; text-align:center;}
 
 .product-menu ul{ width:auto;  clear:both; overflow:hidden; text-align:center;}
 
 .product-menu ul li{ list-style:none; display:inline; font-size:14px; color:#6f6f6f; padding:0 13px; line-height:28px; background:#fff;}
 
-.product-menu ul li a{ color:#6f6f6f;}
+.product-menu ul li a{ color:#6f6f6f;  background:#fff;  font-size:14px; }
 .product-menu ul li a:hover,.product-menu ul li a.active{ color:#000000; border-bottom:solid 2px #000;}
 
+.product-menu a{ color:#6f6f6f;  background:#fff;  font-size:14px; padding:0 10px; margin:0 0 0 -4px; line-height:30px; }
 
+.product-menu  a:hover,.product-menu  a.active{ color:#000000; border-bottom:solid 2px #000;}
 
 /*-------*/
 
@@ -1750,7 +1752,7 @@ margin:10px 0 0 0!important;
 
 
 
-.form-block-contain .form-main .form-type-textfield { background:url(../images/inputbg.png) repeat-x; width:99.5%; height:34px; border:solid 1px #d6d6d6; border-radius:5px; margin:6px 0;}
+.form-block-contain .form-main .form-type-textfield { background: #f2f1f1 url(../images/inputbg.png) repeat-x left top; width:99.5%; height:34px; border:solid 1px #d6d6d6; border-radius:5px; margin:6px 0;}
 
 
 
@@ -2019,6 +2021,11 @@ margin:10px 0 0 0!important;
 .menu-contain a:hover {
     color: #7FB41C;
 }
+
+.menu-contain2 a:hover {
+    color: #7FB41C;
+}
+
 .menu-contain span a {
     background: url("../images/cart1.png") no-repeat scroll 174px center #1C4F78;
     padding: 22px 70px 22px 36px;
@@ -2039,10 +2046,6 @@ margin:10px 0 0 0!important;
 }
 
 .menu-contain ul li{ list-style:none; float:left; position: relative; }
-
-
-
-
 
 .menu-contain ul li a{ color: #fff;}
 .menu-contain ul li:first-child a{ margin: 0 58px 0 0px;}
@@ -2086,6 +2089,15 @@ margin:10px 0 0 0!important;
     padding: 0px;
     border: 1px solid #DDD;
 }
+
+
+.menu-contain2 ul li{ list-style:none; float:left; position: relative; width:200px; margin:0 23px; padding:0!important; }
+
+.menu-contain2 ul li a{ color: #fff; text-align:center; display:block; line-height:67px; padding:0!important; }
+
+.menu-contain2 ul li a:hover{ color: #7FB41C;}
+
+
 
 .distributor-main{width: 1000px;
     margin: 18px auto;}
@@ -2143,7 +2155,6 @@ margin:10px 0 0 0!important;
 
 .distributor-main .distributor-left ul li:hover ul{ display: block;}
 
-
 .distributor-main .distributor-left ul li .image_menu{width: 976px;
     position: absolute;
     z-index: 99;
@@ -2177,6 +2188,13 @@ margin:10px 0 0 0!important;
     width:238px;
 
 }
+
+
+
+
+
+
+
 
 .distributor-main .distributor-left  .bottom-img{ widows: 100%; margin: 0 auto;}
 .distributor-main .distributor-left  .bottom-img img{ width: 100%;}
@@ -2276,3 +2294,25 @@ background:url("../images/btnbg.png")repeat-x left center; width:140px; height:4
 
 
 
+.contact .left-bloak{font-family: "open_sansregular"; width:50%; float:left;}
+
+.contact .left-bloak label{ font-size:1em; color:#000;}
+
+.contact .left-bloak input[type="text"]{ width:98%!important; padding:0 1%; height:40px!important; background:#eaeaea!important; border:solid 1px #ddd; border-radius:5px;}
+
+
+
+.contact .left-bloak textarea { width:98%!important; padding:0 1%; height:100px!important; background:#eaeaea!important; border:solid 1px #ddd; border-radius:5px; resize:none;}
+
+
+.contact .btn1{
+
+background:url("../images/btnbg.png")repeat-x left center; width:180px; height:50px; border:solid 1px #cdd2d6; border-radius:6px; margin:5px auto; margin-bottom:20px; text-align:center; clear:both; display:block; overflow:hidden; color:#fff; line-height:40px; font-size:20px; font-family: "open_sansregular";}
+
+
+.contact  .right-bloak{font-family: "open_sansregular"; width:40%; float:right; font-size:18px; line-height:34px;}
+
+.contact  h2{ font-size:20px;}
+
+
+h1 .eCatelog{font-family: "open_sansregular";}
